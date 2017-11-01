@@ -1,0 +1,14 @@
+How to play ?
+
+the game:
+    -open SLIME
+    -compile package.lisp
+	     api.lisp
+	     sudoku.lisp
+
+	     -go in the package "sudoku" with the commande: (in-package :sudoku)
+	     -run the game with the command: (sudoku-run)
+
+the strategy:
+     in the repertory pls/trunk/Sudoku	
+    ~irdurand/test-strategy strategy
